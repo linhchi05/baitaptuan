@@ -1,5 +1,5 @@
 # NETWORK_PROGRAMING_SERVER
-Repo lưu mã nguồn bài tập hàng tuần (Server) - Bùi Thị Phương Nga - 67165 | Lập trình mạng | Kì 2 | 19.20 
+Repo lưu mã nguồn bài tập hàng tuần (Server) 
 
 CHANGELOG (01.06.2020)
 1. Fix lỗi giới hạn kết nối 
